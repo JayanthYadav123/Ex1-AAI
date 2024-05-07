@@ -1,4 +1,8 @@
-# Experiment-1--- Implementation of Bayesian-Network
+<H3> Name : G.Jayanth. </H3>
+<H3>Register No : 212221230030. </H3>
+<H3> Experiment 1</H3>
+<H3>DATE : 22.02.2024</H3>
+<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
 To create a bayesian Network for the given dataset in Python
